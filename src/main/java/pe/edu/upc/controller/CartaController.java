@@ -30,7 +30,6 @@ import pe.edu.upc.service.IPlatoService;
 @RequestMapping("/cartas")
 
 public class CartaController {
-
 	@Autowired
 	private ICartaService caService;
 	@Autowired
